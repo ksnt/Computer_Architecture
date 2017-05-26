@@ -9,7 +9,7 @@ This lecture will give you a broad overview of the course, as well as the descri
 This lecture covers the basic concept of pipeline and two different types of hazards.  
 
 ## WEEK 2
-**Cache Review**
+**Cache Review**  
 This lecture covers control hazards and the motivation for caches.  
 
 **Superscalar 1**  
