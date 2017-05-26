@@ -1,5 +1,5 @@
 # Computer Architecture at Princeton 
-# Lecturerer David Wentzlaff
+# Lecturerer: David Wentzlaff
 
 ## WEEK 1
 **Introduction, Instruction Set Architecture, and Microcode**  
